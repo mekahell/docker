@@ -1,4 +1,4 @@
-# Debian &amp; Oracle JDK8
+# Debian &amp; Oracle JDK8 &amp; Glassfish 4 (promoted)
 
 ### How to build
 
