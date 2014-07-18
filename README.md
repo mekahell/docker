@@ -1,4 +1,4 @@
-Dockerfiles for containers based on Debian (latest stable) and the Oracle JDK 8
+Docker, latest Debian and Oracle JDK 8
 ===================================================================================
 
 debian-jdk8
